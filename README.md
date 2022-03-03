@@ -1,6 +1,6 @@
 ## STIW3054-RealTimeProgramming-Assignment1
 
-## Requirements for Group Project
+## Requirements for Assignment-1
 [Read the instruction](https://github.com/STIW3054-A211/e-sulam/blob/main/Assignment-1.md)
 
 ## Your Info:
